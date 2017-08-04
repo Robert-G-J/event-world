@@ -1,0 +1,18 @@
+{
+  "name": "event-world",
+  "version": "1.0.0",
+  "description": "A cartesian world with events and tickets",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/robert-g-j/event-world.git"
+  },
+  "author": "Robert Glyndwr Jones",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.7.0"
+  }
+}
